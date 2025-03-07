@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ZanPrincip
+- 👋 Hi, I’m @Zan
 - 👀 I’m interested in building websites and software
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning CSS, HTML, JavaScript
 
 <!---
 ZanPrincip/ZanPrincip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
